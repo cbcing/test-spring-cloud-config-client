@@ -128,5 +128,6 @@ dependencies {
 	testCompile('junit:junit')
 
 	compile('org.springframework.cloud:spring-cloud-config-client')
+	compile('org.springframework.cloud:spring-cloud-starter-bus-amqp')
 }
 
